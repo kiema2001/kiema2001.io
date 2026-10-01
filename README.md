@@ -94,3 +94,5 @@ R workflow for computing population genetic metrics (Fst, π, PCA) and visualizi
   Email: w.mbinda@pu.ac.ke
 * **Dr. Samuel Odiwuor** | Chairman of Department (Biochemistry & Biotechnology), Pwani University  
   Email: s.odiwuor@pu.ac.ke
+* **Dr. Eric Smaling** | Chairman, Rare Vrienden
+  Email: eric.smaling@wur.nl
